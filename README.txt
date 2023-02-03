@@ -6,3 +6,6 @@ gcc -c RobertsonFilters.c -o <desiredProgramName> -lm -pthread
 To Run:
 ./<desiredProgramName> -i <intputfile>.bmp -o <outputfile>.bmp -f s
 (of course, you put 'b' instead of the 's' to blur)
+
+
+This was an assignment from a couple years back; image modification in C. 
